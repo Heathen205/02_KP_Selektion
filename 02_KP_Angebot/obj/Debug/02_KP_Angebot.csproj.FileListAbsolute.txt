@@ -1,0 +1,9 @@
+C:\Janßen\02_KP_Selektion\02_KP_Angebot\bin\Debug\02_KP_Angebot.exe.config
+C:\Janßen\02_KP_Selektion\02_KP_Angebot\bin\Debug\02_KP_Angebot.exe
+C:\Janßen\02_KP_Selektion\02_KP_Angebot\bin\Debug\02_KP_Angebot.pdb
+C:\Janßen\02_KP_Selektion\02_KP_Angebot\obj\Debug\_02_KP_Angebot.Form1.resources
+C:\Janßen\02_KP_Selektion\02_KP_Angebot\obj\Debug\_02_KP_Angebot.Properties.Resources.resources
+C:\Janßen\02_KP_Selektion\02_KP_Angebot\obj\Debug\02_KP_Angebot.csproj.GenerateResource.cache
+C:\Janßen\02_KP_Selektion\02_KP_Angebot\obj\Debug\02_KP_Angebot.csproj.CoreCompileInputs.cache
+C:\Janßen\02_KP_Selektion\02_KP_Angebot\obj\Debug\02_KP_Angebot.exe
+C:\Janßen\02_KP_Selektion\02_KP_Angebot\obj\Debug\02_KP_Angebot.pdb

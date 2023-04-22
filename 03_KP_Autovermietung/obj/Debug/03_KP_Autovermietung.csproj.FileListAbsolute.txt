@@ -1,0 +1,10 @@
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\bin\Debug\03_KP_Autovermietung.exe.config
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\bin\Debug\03_KP_Autovermietung.exe
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\bin\Debug\03_KP_Autovermietung.pdb
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\obj\Debug\03_KP_Autovermietung.csproj.AssemblyReference.cache
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\obj\Debug\_03_KP_Autovermietung.Form1.resources
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\obj\Debug\_03_KP_Autovermietung.Properties.Resources.resources
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\obj\Debug\03_KP_Autovermietung.csproj.GenerateResource.cache
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\obj\Debug\03_KP_Autovermietung.csproj.CoreCompileInputs.cache
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\obj\Debug\03_KP_Autovermietung.exe
+C:\Janßen\02_KP_Selektion\03_KP_Autovermietung\obj\Debug\03_KP_Autovermietung.pdb
