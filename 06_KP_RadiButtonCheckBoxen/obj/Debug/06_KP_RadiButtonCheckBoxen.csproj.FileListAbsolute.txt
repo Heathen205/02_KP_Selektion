@@ -1,0 +1,9 @@
+C:\Janßen\02_KP_Selektion\06_KP_RadiButtonCheckBoxen\bin\Debug\06_KP_RadiButtonCheckBoxen.exe.config
+C:\Janßen\02_KP_Selektion\06_KP_RadiButtonCheckBoxen\bin\Debug\06_KP_RadiButtonCheckBoxen.exe
+C:\Janßen\02_KP_Selektion\06_KP_RadiButtonCheckBoxen\bin\Debug\06_KP_RadiButtonCheckBoxen.pdb
+C:\Janßen\02_KP_Selektion\06_KP_RadiButtonCheckBoxen\obj\Debug\_06_KP_RadiButtonCheckBoxen.Form1.resources
+C:\Janßen\02_KP_Selektion\06_KP_RadiButtonCheckBoxen\obj\Debug\_06_KP_RadiButtonCheckBoxen.Properties.Resources.resources
+C:\Janßen\02_KP_Selektion\06_KP_RadiButtonCheckBoxen\obj\Debug\06_KP_RadiButtonCheckBoxen.csproj.GenerateResource.cache
+C:\Janßen\02_KP_Selektion\06_KP_RadiButtonCheckBoxen\obj\Debug\06_KP_RadiButtonCheckBoxen.csproj.CoreCompileInputs.cache
+C:\Janßen\02_KP_Selektion\06_KP_RadiButtonCheckBoxen\obj\Debug\06_KP_RadiButtonCheckBoxen.exe
+C:\Janßen\02_KP_Selektion\06_KP_RadiButtonCheckBoxen\obj\Debug\06_KP_RadiButtonCheckBoxen.pdb
