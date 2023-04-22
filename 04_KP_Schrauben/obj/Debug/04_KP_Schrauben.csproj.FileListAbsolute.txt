@@ -1,0 +1,10 @@
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\bin\Debug\04_KP_Schrauben.exe.config
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\bin\Debug\04_KP_Schrauben.exe
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\bin\Debug\04_KP_Schrauben.pdb
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\obj\Debug\04_KP_Schrauben.csproj.AssemblyReference.cache
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\obj\Debug\_04_KP_Schrauben.Form1.resources
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\obj\Debug\_04_KP_Schrauben.Properties.Resources.resources
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\obj\Debug\04_KP_Schrauben.csproj.GenerateResource.cache
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\obj\Debug\04_KP_Schrauben.csproj.CoreCompileInputs.cache
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\obj\Debug\04_KP_Schrauben.exe
+C:\Janßen\02_KP_Selektion\04_KP_Schrauben\obj\Debug\04_KP_Schrauben.pdb

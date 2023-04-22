@@ -1,0 +1,10 @@
+C:\Janßen\02_KP_Selektion\05_KP_Energie\bin\Debug\05_KP_Energie.exe.config
+C:\Janßen\02_KP_Selektion\05_KP_Energie\bin\Debug\05_KP_Energie.exe
+C:\Janßen\02_KP_Selektion\05_KP_Energie\bin\Debug\05_KP_Energie.pdb
+C:\Janßen\02_KP_Selektion\05_KP_Energie\obj\Debug\05_KP_Energie.csproj.AssemblyReference.cache
+C:\Janßen\02_KP_Selektion\05_KP_Energie\obj\Debug\_05_KP_Energie.Form1.resources
+C:\Janßen\02_KP_Selektion\05_KP_Energie\obj\Debug\_05_KP_Energie.Properties.Resources.resources
+C:\Janßen\02_KP_Selektion\05_KP_Energie\obj\Debug\05_KP_Energie.csproj.GenerateResource.cache
+C:\Janßen\02_KP_Selektion\05_KP_Energie\obj\Debug\05_KP_Energie.csproj.CoreCompileInputs.cache
+C:\Janßen\02_KP_Selektion\05_KP_Energie\obj\Debug\05_KP_Energie.exe
+C:\Janßen\02_KP_Selektion\05_KP_Energie\obj\Debug\05_KP_Energie.pdb
