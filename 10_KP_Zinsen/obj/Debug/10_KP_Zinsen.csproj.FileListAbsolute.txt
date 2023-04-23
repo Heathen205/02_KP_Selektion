@@ -1,0 +1,10 @@
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\bin\Debug\10_KP_Zinsen.exe.config
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\bin\Debug\10_KP_Zinsen.exe
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\bin\Debug\10_KP_Zinsen.pdb
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\obj\Debug\10_KP_Zinsen.csproj.AssemblyReference.cache
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\obj\Debug\_10_KP_Zinsen.Form1.resources
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\obj\Debug\_10_KP_Zinsen.Properties.Resources.resources
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\obj\Debug\10_KP_Zinsen.csproj.GenerateResource.cache
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\obj\Debug\10_KP_Zinsen.csproj.CoreCompileInputs.cache
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\obj\Debug\10_KP_Zinsen.exe
+C:\Janßen\02_KP_Selektion\10_KP_Zinsen\obj\Debug\10_KP_Zinsen.pdb
