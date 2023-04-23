@@ -1,0 +1,10 @@
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\bin\Debug\11_KP_SwitchNoten.exe.config
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\bin\Debug\11_KP_SwitchNoten.exe
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\bin\Debug\11_KP_SwitchNoten.pdb
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\obj\Debug\11_KP_SwitchNoten.csproj.AssemblyReference.cache
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\obj\Debug\_11_KP_SwitchNoten.Form1.resources
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\obj\Debug\_11_KP_SwitchNoten.Properties.Resources.resources
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\obj\Debug\11_KP_SwitchNoten.csproj.GenerateResource.cache
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\obj\Debug\11_KP_SwitchNoten.csproj.CoreCompileInputs.cache
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\obj\Debug\11_KP_SwitchNoten.exe
+C:\Janßen\02_KP_Selektion\11_KP_SwitchNoten\obj\Debug\11_KP_SwitchNoten.pdb
