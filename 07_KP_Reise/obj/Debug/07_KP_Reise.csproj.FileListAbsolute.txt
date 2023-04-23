@@ -1,0 +1,10 @@
+C:\Janßen\02_KP_Selektion\07_KP_Reise\bin\Debug\07_KP_Reise.exe.config
+C:\Janßen\02_KP_Selektion\07_KP_Reise\bin\Debug\07_KP_Reise.exe
+C:\Janßen\02_KP_Selektion\07_KP_Reise\bin\Debug\07_KP_Reise.pdb
+C:\Janßen\02_KP_Selektion\07_KP_Reise\obj\Debug\07_KP_Reise.csproj.AssemblyReference.cache
+C:\Janßen\02_KP_Selektion\07_KP_Reise\obj\Debug\_07_KP_Reise.Form1.resources
+C:\Janßen\02_KP_Selektion\07_KP_Reise\obj\Debug\_07_KP_Reise.Properties.Resources.resources
+C:\Janßen\02_KP_Selektion\07_KP_Reise\obj\Debug\07_KP_Reise.csproj.GenerateResource.cache
+C:\Janßen\02_KP_Selektion\07_KP_Reise\obj\Debug\07_KP_Reise.csproj.CoreCompileInputs.cache
+C:\Janßen\02_KP_Selektion\07_KP_Reise\obj\Debug\07_KP_Reise.exe
+C:\Janßen\02_KP_Selektion\07_KP_Reise\obj\Debug\07_KP_Reise.pdb

@@ -1,0 +1,9 @@
+C:\Janßen\02_KP_Selektion\08_KP_BMI_Rechner\bin\Debug\08_KP_BMI_Rechner.exe.config
+C:\Janßen\02_KP_Selektion\08_KP_BMI_Rechner\bin\Debug\08_KP_BMI_Rechner.exe
+C:\Janßen\02_KP_Selektion\08_KP_BMI_Rechner\bin\Debug\08_KP_BMI_Rechner.pdb
+C:\Janßen\02_KP_Selektion\08_KP_BMI_Rechner\obj\Debug\_08_KP_BMI_Rechner.Form1.resources
+C:\Janßen\02_KP_Selektion\08_KP_BMI_Rechner\obj\Debug\_08_KP_BMI_Rechner.Properties.Resources.resources
+C:\Janßen\02_KP_Selektion\08_KP_BMI_Rechner\obj\Debug\08_KP_BMI_Rechner.csproj.GenerateResource.cache
+C:\Janßen\02_KP_Selektion\08_KP_BMI_Rechner\obj\Debug\08_KP_BMI_Rechner.csproj.CoreCompileInputs.cache
+C:\Janßen\02_KP_Selektion\08_KP_BMI_Rechner\obj\Debug\08_KP_BMI_Rechner.exe
+C:\Janßen\02_KP_Selektion\08_KP_BMI_Rechner\obj\Debug\08_KP_BMI_Rechner.pdb
